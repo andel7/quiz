@@ -1,0 +1,17 @@
+#question_div {
+	display:none;
+	padding-left: 20%;
+	margin: 0px 20%;
+	border-radius: 3px;
+	border: 1px dashed grey;
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+
+#right_pannel {
+	margin-right: 2em;
+}
+#question_paragraph {
+	font-size: 2em;
+	font-weight: 100;
+}
