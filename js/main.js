@@ -8,7 +8,7 @@ function Question(question,answers,correct_answer) {
 
 var questions_array = new Array();
 questions_array[1]= new Question("What Sheldon says after a joke","bazinga,hahaha,gotcha,you are a fool",1);
-questions_array[2]= new Question("How many times Sheldon has to knock on the door","4,5,1,3",4);
+questions_array[2]= new Question("How many times Sheldon has to knock","4,5,1,3",4);
 questions_array[3]= new Question("You should sing a soft kitty song when Sheldon is","sad,happy,sick,lonely",3);
 questions_array[4]= new Question("Who is Amy","girlfriend,girl,friend,a girl who is a friend",4);
 
